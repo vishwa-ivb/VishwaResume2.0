@@ -1,0 +1,18 @@
+body{
+  background-color: #afeeee;
+}
+hr{
+  border-style: dotted none none none;
+  border-top-width: 6px ;
+  border-color: white;
+  height: 2%;
+  width: 10%;
+}
+h1
+{
+  color: darkblue;
+}
+h3
+{
+  color: darkblue;
+}
